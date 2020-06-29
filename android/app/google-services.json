@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "423383497703",
+    "firebase_url": "https://cushahbca-nfg.firebaseio.com",
+    "project_id": "cushahbca-nfg",
+    "storage_bucket": "cushahbca-nfg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423383497703:android:2640bfd702f89e8fcd1b42",
+        "android_client_info": {
+          "package_name": "com.nfg.cushah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423383497703-vprcs86d57vqfhva7ib26mr8hjenq06k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7rPAeG1bP9BtkmlkyrF_YVu6Ea9LUqY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423383497703-vprcs86d57vqfhva7ib26mr8hjenq06k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
